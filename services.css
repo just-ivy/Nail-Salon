@@ -1,0 +1,35 @@
+.services__toggle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+    width: 100%;
+    padding: 0.5rem 1rem;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    /* border: none; */
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.services-list{
+    display: none;
+}
+/* .services__toggle .icon-chevron-right::before {
+    content: '\25B6'; 
+     Unicode for chevron-right 
+}
+
+.services__toggle .icon-chevron-down::before {
+    content: '\25BC';
+    Unicode for chevron-down
+} */
+
+/* Styling for the services list */
+/* .services-list {
+    padding: 10px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+} */

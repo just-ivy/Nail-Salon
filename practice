@@ -1,0 +1,255 @@
+
+            <!-- <div id="manicure" class="services">
+                <h2>Manicure</h2>
+                <div class="services-list"></div>
+            </div> -->
+
+            
+            <!-- <div id="combo"x class="services">
+                <h2>Mani/Pedi Combos</h2>
+                <div class="services-list"></div>
+            </div> -->
+
+            <!-- <section class="product-gallery">
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="./images/nail1.webp" alt="Nail Service 1">
+                    </div>
+                    <div class="product-details">
+                        <h3 class="product-name">Manicure Service</h3>
+                        <p class="product-description">A relaxing manicure session that includes nail shaping, cuticle care, and a choice of polish.</p>
+                        <button class="view-more">View More</button>
+                    </div>
+                </div>
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="nail-service1.jpg" alt="Nail Service 1">
+                    </div>
+                    <div class="product-details">
+                        <h3 class="product-name">Manicure Service</h3>
+                        <p class="product-description">A relaxing manicure session that includes nail shaping, cuticle care, and a choice of polish.</p>
+                        <button class="view-more">View More</button>
+                    </div>
+                </div>
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="nail-service1.jpg" alt="Nail Service 1">
+                    </div>
+                    <div class="product-details">
+                        <h3 class="product-name">Manicure Service</h3>
+                        <p class="product-description">A relaxing manicure session that includes nail shaping, cuticle care, and a choice of polish.</p>
+                        <button class="view-more">View More</button>
+                    </div>
+                </div>
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="nail-service1.jpg" alt="Nail Service 1">
+                    </div>
+                    <div class="product-details">
+                        <h3 class="product-name">Manicure Service</h3>
+                        <p class="product-description">A relaxing manicure session that includes nail shaping, cuticle care, and a choice of polish.</p>
+                        <button class="view-more">View More</button>
+                    </div>
+                </div>
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="nail-service1.jpg" alt="Nail Service 1">
+                    </div>
+                    <div class="product-details">
+                        <h3 class="product-name">Manicure Service</h3>
+                        <p class="product-description">A relaxing manicure session that includes nail shaping, cuticle care, and a choice of polish.</p>
+                        <button class="view-more">View More</button>
+                    </div>
+                </div>
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="nail-service1.jpg" alt="Nail Service 1">
+                    </div>
+                    <div class="product-details">
+                        <h3 class="product-name">Manicure Service</h3>
+                        <p class="product-description">A relaxing manicure session that includes nail shaping, cuticle care, and a choice of polish.</p>
+                        <button class="view-more">View More</button>
+                    </div>
+                </div>
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="nail-service1.jpg" alt="Nail Service 1">
+                    </div>
+                    <div class="product-details">
+                        <h3 class="product-name">Manicure Service</h3>
+                        <p class="product-description">A relaxing manicure session that includes nail shaping, cuticle care, and a choice of polish.</p>
+                        <button class="view-more">View More</button>
+                    </div>
+                </div>
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="nail-service1.jpg" alt="Nail Service 1">
+                    </div>
+                    <div class="product-details">
+                        <h3 class="product-name">Manicure Service</h3>
+                        <p class="product-description">A relaxing manicure session that includes nail shaping, cuticle care, and a choice of polish.</p>
+                        <button class="view-more">View More</button>
+                    </div>
+                </div>
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="nail-service1.jpg" alt="Nail Service 1">
+                    </div>
+                    <div class="product-details">
+                        <h3 class="product-name">Manicure Service</h3>
+                        <p class="product-description">A relaxing manicure session that includes nail shaping, cuticle care, and a choice of polish.</p>
+                        <button class="view-more">View More</button>
+                    </div>
+                </div>
+            </section> -->
+
+            
+            <div id="manicure" class="services">
+                <h2>Manicure</h2>
+                <p class="services__desc"> Treat yourself to perfectly shaped nails, cuticle care, and a nourishing hand massage, topped with regular polish. Deluxe includes everything in the classic pedicure with added pampering, such as a deeper exfoliation and hydrating mask. While our Luxury Deluxe Manicure includes all Deluxe features plus a warm paraffin wax treatment, a longer hand and arm massage with essential oils, and a hot towel wrap.</p>
+                <div class="services-list"></div>
+                <div class="services__images">
+                    <img src="./images/pedi2.webp" alt="pedicure image" class="services__image">
+                    <img src="./images/pedi1.png" alt="pedicure image" class="services__image">
+                    <img src="./images/pedi4.webp" alt="pedicure image" class="services__image">
+                </div>
+            </div>
+
+
+
+
+            
+            <div id="off" class="services">
+                <h2>Buff/Soak Off</h2>
+                <p class="services__desc">Are your nails too old or perhaps you want to try somehing new?Come overr for a safe and gentle removal of gel or acrylic polish, followed by a buff to keep your nails smooth and healthy.</p>
+                <div class="services-list"></div>
+                <div class="services__images">
+                    <img src="./images/soak1.jpg" alt="soak image" class="services__image">
+                    <img src="./images/soak2.webp" alt="soak image" class="services__image">
+                    <img src="./images/soak3.jpg" alt="soak image" class="services__image">
+                </div>
+            </div>
+
+
+
+
+            <!-- ------------------Services Before--------------------------- -->
+            <section class="service">
+                <div class="services-container">
+                    <div id="manicure" class="services">
+                        <h2>Manicure</h2>
+                        <p class="services__desc"> Treat yourself to perfectly shaped nails, cuticle care, and a nourishing hand massage, topped with regular polish. Deluxe includes everything in the classic pedicure with added pampering, such as a deeper exfoliation and hydrating mask. While our Luxury Deluxe Manicure includes all Deluxe features plus a warm paraffin wax treatment, a longer hand and arm massage with essential oils, and a hot towel wrap.</p>
+                        <div class="services-list"></div>
+                        <div class="services__images">
+                            <img src="./images/pedi2.webp" alt="pedicure image" class="services__image">
+                            <img src="./images/pedi1.png" alt="pedicure image" class="services__image">
+                            <img src="./images/pedi4.webp" alt="pedicure image" class="services__image">
+                        </div>
+                    </div>
+                </div>
+                <div class="services-container">
+                    <div id="pedicure" class="services">
+                        <h2>Pedicure</h2>
+                        <p class="services__desc">Relax with a soothing foot soak, foot scrub,  nail shaping, cuticle care, and exfoliation, followed by a refreshing massage and regular polish. The deluxe includes added pampering, such as a deeper exfoliation, hydrating mask, and an extended massage while the luxury deluxe includes all Deluxe features plus a nourishing paraffin wax treatment, a longer massage with essential oils, and a hot towel wrap for ultimate relaxation. Dry pedicure is a no-soak pedicure ideal for a clean-up and polish. Includes nail trimming, shaping, light cuticle care, and a buff</p>
+                        <div class="services-list"></div>
+                        <div class="services__images">
+                            <img src="./images/pedi2.webp" alt="pedicure image" class="services__image">
+                            <img src="./images/pedi1.png" alt="pedicure image" class="services__image">
+                            <img src="./images/pedi4.webp" alt="pedicure image" class="services__image">
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="service" style="background-color: #fcf6f3;">
+                <div class="services-container">
+                    <div id="biab" class="services">
+                        <h2>BUilder in a Bottle (BIAB)</h2>
+                        <p class="services__desc">Strengthen and extend your natural nails with this innovative gel polish, ideal for a durable, long-lasting finish. BIAB is gel-like nail polish applied as an overlay on natural nails to make them stronger. It can also be paired with other extensions and used in different designs</p>
+                        <div class="services-list"></div>
+                        <div class="services__images">
+                            <img src="./images/biab2.webp" alt="biab image" class="services__image">
+                            <img src="./images/biab4.jpg" alt="biab image" class="services__image">
+                            <img src="./images/nail2.avif" alt="biab image" class="services__image">
+                        </div>
+                    </div>
+                    <div id="refill" class="services">
+                        <h2>Refill</h2>
+                        <p class="services__desc">Keep yournails looking fresh with a refill service, filling in regrowth for a consistent, polished finish so your nails can last a while longer.</p>
+                        <div class="services-list"></div>
+                        <div class="services__images">
+                            <img src="./images/refill1.jpg" alt="refill image" class="services__image">
+                            <img src="./images/refill4.webp" alt="refill image" class="services__image">
+                            <img src="./images/refill2.jpg" alt="refill image" class="services__image">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="services-container">
+                    <div id="ga" class="services">
+                        <h2>Gel, Acrylic</h2>
+                        <p class="services__desc">Gel Polish is a type of nail polish that is cured under a UV or LED light to create a hard, durable layer on the nails. It lasts longer than normal polish. Is more resitant to scratche and will remian eautigu for the entire wearing period. Acrylic however is the use of acrylic solution and powder. Both can be used in creating endless pretty designs.</p>
+                        <div class="services-list"></div>
+                        <div class="services__images">
+                            <img src="./images/nails4.jpg" alt="gel/acrylic image" class="services__image">
+                            <img src="./images/gel1.avif" alt="gel/acrylic image" class="services__image">
+                            <img src="./images/nails11.png" alt="gel/acrylic image" class="services__image">
+                        </div>
+                    </div>
+                    <div id="o" class="services">
+                        <h2>Others</h2>
+                        <p class="services__desc">Ombre is that  beautiful design you see where mutiple shades are used to create a lovely pattern; it can be done with gel polish or acrylic. Chrome is a powder used to create a metallic and reflective finish. While Polygel is considered as a hybrid between acrylic and gel polish. It is usually considered the safest to use.</p>
+                        <div class="services-list"></div>
+                        <div class="services__images">
+                            <img src="./images/others3.jpg" alt="others image" class="services__image">
+                            <img src="./images/nail10.webp" alt="others image" class="services__image">
+                            <img src="./images/others2.jpg" alt="others image" class="services__image">
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="service" style="background-color: #ebf9ec;">
+                <div class="services-container">
+                    <div id="kids" class="services">
+                        <h2>Kids</h2>
+                        <p class="services__desc">Safe, gentle nail care for little ones, featuring fun colors and light hand or foot massages, perfect for young nails. Kids are classified as children between the ages of 6 and 12.</p>
+                        <div class="services-list"></div>
+                        <div class="services__images">
+                            <img src="./images/kids1.jpg" alt="kids image" class="services__image">
+                            <img src="./images/kids3.jpg" alt="kids image" class="services__image">
+                            <img src="./images/kids2.jpg" alt="kids image" class="services__image">
+                        </div>
+                    </div>
+                    <div id="off" class="services">
+                        <h2>Buff/Soak Off</h2>
+                        <p class="services__desc">Are your nails too old or perhaps you want to try somehing new?Come overr for a safe and gentle removal of gel or acrylic polish, followed by a buff to keep your nails smooth and healthy.</p>
+                        <div class="services-list"></div>
+                        <div class="services__images">
+                            <img src="./images/soak1.jpg" alt="soak image" class="services__image">
+                            <img src="./images/soak2.webp" alt="soak image" class="services__image">
+                            <img src="./images/soak3.jpg" alt="soak image" class="services__image">
+                        </div>
+                    </div>
+                </div>
+                <div class="services-container">
+                    <div id="repair" class="services">
+                        <h2>Repairs (per nail)</h2>
+                        <p class="services__desc">Broken nail? We’ll fix it seamlessly, restoring your nails to perfection so you can keep flaunting your look.</p>
+                        <div class="services-list"></div>
+                        <div class="services__images">
+                            <img src="./images/repair1.jpg" alt="repair image" class="services__image">
+                            <img src="./images/repair4.png" alt="repair image" class="services__image">
+                            <img src="./images/repair3.webp" alt="repair image" class="services__image">
+                        </div>
+                    </div>
+                    <div id="extras" class="services">
+                        <h2>Extras</h2>
+                        <p class="services__desc">Add a unique touch to your nails with creative extras, from eye-catching stickers to dazzling stones and custom 3D nail art.</p>
+                        <div class="services-list"></div>
+                        <div class="services__images">
+                            <img src="./images/extras1.jpg" alt="extras image" class="services__image">
+                            <img src="./images/extras2.webp" alt="extras image" class="services__image">
+                            <img src="./images/extras4.jpg" alt="extras image" class="services__image">
+                        </div>
+                    </div>
+                </div>
+            </section>
